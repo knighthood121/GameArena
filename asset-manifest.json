@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/GameArena/static/js/main.b16d26ff.js",
+    "index.html": "/GameArena/index.html",
+    "main.b16d26ff.js.map": "/GameArena/static/js/main.b16d26ff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b16d26ff.js"
+  ]
+}
